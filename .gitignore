@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+
+# Local environment variables
+.env.local
+
+# Build artifacts
+out/
+
+# Other potential build artifacts
+build/
+dist/
