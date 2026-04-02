@@ -1,0 +1,1 @@
+{"compilerOptions": {"target": "ES2020", "strict": true, "baseUrl": ".", "paths": {"@components/*": ["src/components/*"], "@pages/*": ["src/pages/*"], "@styles/*": ["src/styles/*"], "@lib/*": ["src/lib/*"], "@types/*": ["src/types/*"]}}}
